@@ -10,6 +10,7 @@ namespace IfElse
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Github 테스트");
         }
     }
 }

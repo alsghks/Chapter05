@@ -6,7 +6,7 @@ namespace P151_ex4
     {
         static void Main(string[] args)
         {
-            Console.Write("숫자를 입력하세요. : ");
+            Console.Write("정수 한 개를 입력하세요. : ");
 
             string input = Console.ReadLine();
             int number = Int32.Parse(input);

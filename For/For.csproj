@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EFF1A806-FA53-4D73-989A-4955005F1FFD}</ProjectGuid>
+    <ProjectGuid>{869FFB56-335F-4E8A-9F71-C24FC4B035AE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>P161_ex4</RootNamespace>
-    <AssemblyName>P161_ex4</AssemblyName>
+    <RootNamespace>For</RootNamespace>
+    <AssemblyName>For</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -2,7 +2,7 @@
 
 namespace P161_ex4
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {
@@ -35,7 +35,7 @@ namespace P161_ex4
                     Console.WriteLine("정상적인 입력값이 아닙니다. 확인 후 다시 실행해주세요.");
                     return;
             }
-
+           
         }
     }
 }

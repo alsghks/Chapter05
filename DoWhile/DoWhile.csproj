@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EFF1A806-FA53-4D73-989A-4955005F1FFD}</ProjectGuid>
+    <ProjectGuid>{F2B94B4F-DD8D-4606-A100-87CDA4D505CC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>P161_ex4</RootNamespace>
-    <AssemblyName>P161_ex4</AssemblyName>
+    <RootNamespace>DoWhile</RootNamespace>
+    <AssemblyName>DoWhile</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

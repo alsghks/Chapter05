@@ -26,18 +26,30 @@ namespace P151_ex6
                     Console.WriteLine($"입력하신 점수 {b}는(은) 합격입니다.");
                 else if (b < 60)
                     Console.WriteLine($"입력하신 점수 {b}는(은) 불합격입니다.");
+
+
             }
             if (a >= 4)
             {
                 if (b >= 70)
                     Console.WriteLine($"입력하신 점수 {b}는(은) 합격입니다.");
-                if (b < 70)
+                else if (b < 70)
                     Console.WriteLine($"입력하신 점수 {b}는(은) 불합격입니다.");
-                default:
-                    Console.WriteLine($"점수를 잘못입력하셨습니다. 확인 후 다시 입력해주세요.");
 
             }
-           
+
+            if (b > 100)
+            {
+                Console.WriteLine($"점수를 잘못입력하셨습니다. 확인 후 다시 입력해주세요.");
+            }
+
+            else if (b < 0)
+
+                Console.WriteLine($"점수를 잘못입력하셨습니다. 확인 후 다시 입력해주세요.");
+
+
+        
+            }
         }
     }
-}
+
